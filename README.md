@@ -22,7 +22,7 @@ app.use('/', require('path/to/index.js'))
 
 ```JavaScript
 const app = require('express')
-const AutoRouter = require('auto-router')
+const AutoRouter = require('auto-routes-express')
 
 AutoRouter.init(app, path.join(__dirname, 'path/to/routes'))
 ```

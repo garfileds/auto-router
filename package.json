@@ -1,0 +1,23 @@
+{
+  "name": "auto-router",
+  "version": "1.0.0",
+  "description": "auto router by file path for express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/garfileds/auto-router.git"
+  },
+  "keywords": [
+    "express",
+    "router"
+  ],
+  "author": "adoug",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/garfileds/auto-router/issues"
+  },
+  "homepage": "https://github.com/garfileds/auto-router#readme"
+}
